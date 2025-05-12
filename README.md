@@ -1,2 +1,2 @@
-# Sns
- سرمایه‌گذاری 
+sns
+Investment 
